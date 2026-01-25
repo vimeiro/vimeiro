@@ -36,7 +36,8 @@ Explorando estruturas de proteínas e interações moleculares 🔬
 ```
 
 ### 📫 Contato
+```
 - Email: otavio.hugoh@gmail.com
 - LinkedIn: https://www.linkedin.com/in/otavio-hugo-aguiar-gomes/  
 - GitHub: https://github.com/vimeiro
-
+```
