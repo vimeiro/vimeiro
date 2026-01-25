@@ -1,16 +1,42 @@
-## Hi there 👋
+## Olá! Eu sou o Hugo Aguiar 👋
 
-<!--
-**vimeiro/vimeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bioinformática & Ciência de Dados 🧬📊  
+Trabalhando com análise computacional de dados biológicos  
+Explorando estruturas de proteínas e interações moleculares 🔬
 
-Here are some ideas to get you started:
+### 👨‍🔬 Sobre mim
+```
+- Graduando em Biotecnologia (UFC) 🎓  
+- Técnico em Informática 💻  
+- Interesse em unir biologia, programação e dados  
+- Experiente em bioinformática estrutural e análise de dados científicos  
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Minhas ferramentas de escolha
+```
+- Python🐍
+- R📈
+- SQL
+- JavaScript     
+```
+
+### 🧬 Bioinformática estrutural
+```
+- Análise estrutural de proteínas e relação estrutura–função  
+- Manipulação de arquivos PDB  
+- Docking molecular e modelagem de complexos proteína–ligante  
+```
+
+### 🚀 Atualmente explorando
+```
+- Bioinformática aplicada  
+- Estatística e análise de dados  
+- Automação de pipelines  
+- Visualização de dados científicos  
+```
+
+### 📫 Contato
+- Email: otavio.hugoh@gmail.com
+- LinkedIn: https://www.linkedin.com/in/otavio-hugo-aguiar-gomes/  
+- GitHub: https://github.com/vimeiro
+
