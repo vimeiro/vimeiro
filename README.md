@@ -19,7 +19,9 @@ Explorando estruturas de proteínas e interações moleculares 🔬
 - SQL
 - JavaScript
 - Excel
-- Power Bi     
+- Power Bi
+- Linux
+- Git & GitHub     
 ```
 
 ### 🧬 Bioinformática estrutural
