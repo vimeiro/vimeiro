@@ -6,6 +6,7 @@ Explorando estruturas de proteínas e interações moleculares 🔬
 
 ### 👨‍🔬 Sobre mim
 ```
+- Mestrando em Modelagem Computacional no Laboratório Nacional de Computação Científica (LNCC) 🧑🏻‍💻
 - Graduando em Biotecnologia (UFC) 🎓  
 - Técnico em Informática 💻  
 - Interesse em unir biologia, programação e dados  
