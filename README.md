@@ -7,7 +7,7 @@ Exploring protein structures and molecular interactions 🔬
 ### 👨‍🔬 About Me
 ```
 - MSc Student in Computational Modeling at the the National Laboratory for Scientific Computing (LNCC), Brazil 🧑🏻‍💻
-- BSc in Biotechnology at the Universidade Federal do Ceará (UFC), Brazil 🎓
+- BSc in Biotechnology at the Federal University of Ceará (UFC), Brazil 🎓
 - IT Technician 💻
 - Interested in bridging biology, programming, and data science
 - Experienced in structural bioinformatics and scientific data analysis
