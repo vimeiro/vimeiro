@@ -1,48 +1,48 @@
-## Olá! Eu sou o Hugo Aguiar 👋
+## Hello! I'm Hugo Aguiar 👋
 
-Bioinformática & Ciência de Dados 🧬📊  
-Trabalhando com análise computacional de dados biológicos  
-Explorando estruturas de proteínas e interações moleculares 🔬
+Bioinformatics & Data Science 🧬📊  
+Working with computational analysis of biological data  
+Exploring protein structures and molecular interactions 🔬
 
-### 👨‍🔬 Sobre mim
+### 👨‍🔬 About Me
 ```
-- Mestrando em Modelagem Computacional no Laboratório Nacional de Computação Científica (LNCC) 🧑🏻‍💻
-- Graduando em Biotecnologia (UFC) 🎓  
-- Técnico em Informática 💻  
-- Interesse em unir biologia, programação e dados  
-- Experiente em bioinformática estrutural e análise de dados científicos  
+- MSc Student in Computational Modeling at the the National Laboratory for Scientific Computing (LNCC), Brazil 🧑🏻‍💻
+- BSc in Biotechnology at the Universidade Federal do Ceará (UFC), Brazil 🎓
+- IT Technician 💻
+- Interested in bridging biology, programming, and data science
+- Experienced in structural bioinformatics and scientific data analysis
 ```
 
-### 🛠️ Minhas ferramentas de escolha
+### 🛠️ My Go-To Tools
 ```
-- Python🐍
-- R📈
+- Python 🐍
+- R 📈
 - SQL
 - JavaScript
 - Excel
-- Power Bi
+- Power BI
 - Linux
-- Git & GitHub     
+- Git & GitHub
 ```
 
-### 🧬 Bioinformática estrutural
+### 🧬 Structural Bioinformatics
 ```
-- Análise estrutural de proteínas e relação estrutura–função  
-- Manipulação de arquivos PDB  
-- Docking molecular e modelagem de complexos proteína–ligante  
-```
-
-### 🚀 Atualmente explorando
-```
-- Bioinformática aplicada  
-- Estatística e análise de dados  
-- Automação de pipelines  
-- Visualização de dados científicos  
+- Protein structural analysis and structure–function relationships
+- PDB file manipulation
+- Molecular docking and protein–ligand complex modeling
 ```
 
-### 📫 Contato
+### 🚀 Currently Exploring
+```
+- Applied bioinformatics
+- Statistics and data analysis
+- Pipeline automation
+- Scientific data visualization
+```
+
+### 📫 Contact
 ```
 - Email: otavio.hugoh@gmail.com
-- LinkedIn: https://www.linkedin.com/in/otavio-hugo-aguiar-gomes/  
+- LinkedIn: https://www.linkedin.com/in/otavio-hugo-aguiar-gomes/
 - GitHub: https://github.com/vimeiro
 ```
